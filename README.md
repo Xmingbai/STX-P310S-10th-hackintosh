@@ -25,8 +25,7 @@ PCIE	PCIE3.0x16   支持半高双槽位 15CM长度（超出长度也行）
 
 支持操作系统类型	Windows、Linux、MacOS
 
-
-体积：2.2升 支持十代桌面CPU。支持2块NVME M.2SSD 和2块2.5寸SATA 
+体积：2.2升 
 
 
 # 本机配置清单
