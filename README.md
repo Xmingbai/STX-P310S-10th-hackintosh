@@ -2,6 +2,8 @@
 	
 #  小主机淘宝小店采购短链接：http://topurl.cn/6ky	
 
+#  小主机测评视频：https://www.bilibili.com/video/BV1UK4y1X7sg/
+
 # P310S 参数介绍	
 支持CPU类型	LGA1200    上十代桌面CPU 建议i3-10100、i5-10400、i5-10500、i5-10600、i7-10700 、i9-10900等  
 
