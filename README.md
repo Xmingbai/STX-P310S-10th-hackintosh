@@ -2,9 +2,12 @@
 	
 #  小主机淘宝小店采购短链接：http://topurl.cn/6ky	
 
-#  小主机测评视频：https://www.bilibili.com/video/BV1UK4y1X7sg/
+#  小主机厚款测评视频：https://www.bilibili.com/video/BV1UK4y1X7sg/
+
+#  小主机薄款测评视频：https://www.bilibili.com/video/BV1RU4y1g7U3
 
 # P310S 参数介绍	
+
 支持CPU类型	LGA1200    上十代桌面CPU 建议i3-10100、i5-10400、i5-10500、i5-10600、i7-10700 、i9-10900T等  
 
 内存	笔记本内存 最高支持64G（2x32 DDR 2933）
@@ -28,6 +31,8 @@ PCIE	PCIE3.0x16   支持半高双槽位 15CM长度（超出长度也行）
 支持操作系统类型	Windows、Linux、MacOS
 
 体积：厚款 2.2升 （157x149x97mm）  薄款 1.5升（157x149x64mm）
+
+
 
 
 # 本机配置清单
@@ -55,3 +60,7 @@ CPU 六核心识别正常、睿频正常
 音频输出正常，支持前置3.5音频、DP 、HDMI音频输出
 
 睡眠、唤醒都正常，可以通过USB唤醒
+
+
+
+# 建议： 鉴于主板限制CPU 功耗最高位125W，综合功耗和散热效果，建议厚款最高上i7-10700 ，薄款最高上i5-10600，i9-10900T es
