@@ -2,7 +2,7 @@
 
 # 支持 windows、Linux、MacOS、ESXI多系统等
 
-# 目前oc引导 支持MacOS  Catalina 10.15.x 、big sur 11.x 、Monterey 12.x
+# 目前oc0.7.4 引导 支持MacOS  Catalina 10.15.x 、big sur 11.x 、Monterey 12.x
 	
 #  小主机淘宝小店采购短链接：http://topurl.cn/6ky	
 
